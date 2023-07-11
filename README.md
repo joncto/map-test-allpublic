@@ -6,7 +6,7 @@ Data is derived from the Norwegian Entity Register. Geo-coordinates have been pa
 It is produced with QGIS 3.24, and the [qgis2web](https://github.com/tomchadwin/qgis2web) plugin, with some post-editing of the html-, css- and js-files.
 
 ## How to use the map?
-The map is currently not available from a web server, but you can [run the map in html preview](htmlpreview.github.io/?https://github.com/nlnwa/map-nettaviser/blob/main/index.html).
+The map is currently not available from a web server, but you can [run the map in html preview](http://htmlpreview.github.io/?https://github.com/joncto/map-test-allpublic/blob/main/index.html)
 
 You can of course also down the files in this repo and run it locally.
 After downloading, run 'index.html' in your browser.
